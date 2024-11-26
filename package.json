@@ -19,7 +19,7 @@
     "@percy/puppeteer": "^2.0.2",
     "jest": "^29.7.0",
     "jest-image-snapshot": "^6.4.0",
-    "jest-puppeteer": "^10.1.4",
+    "jest-puppeteer": "file:",
     "puppeteer": "^23.9.0"
   }
 }
